@@ -59,7 +59,8 @@ Line Chart: Sales by Day Name.
 Month and Filter Slicers: For interactive analysis.
 
 ## Dashboard Screenshot:
-![Dashboard Screenshot](./Screenshot 2025-06-30 123347.png)
+<a href="https://github.com/Kkayande2004/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-30%20123347.png">Dashboard</a>
+
 
 ## Project Insights
 Total Sales: ₹10 Million with 259 units sold.
