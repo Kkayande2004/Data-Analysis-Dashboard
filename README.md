@@ -3,7 +3,7 @@
 The objective of this project was to analyze Motorola’s monthly sales performance for the year, providing key insights on total sales, customer behavior, product-wise performance, and regional contributions — helping management make data-driven decisions for future business growth.
 
 ## Dataset Used
-Motorola Sales Data
+<a href="https://github.com/Kkayande2004/Data-Analysis-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">Dataset</a>
 
 ## Questions / KPIs Addressed
 📈 What is the total sales, total quantity sold, average sales, and number of transactions for the selected month?
